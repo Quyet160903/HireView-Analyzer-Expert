@@ -74,12 +74,3 @@ HireView-Analyzer-Expert/
 - Enhance analysis with more AI models
 - Improve UI with more customization options
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 📬 Contact
-For questions or feedback, reach out to **[Your Contact Information]**.
-
